@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blaq-Shinobi
+- 👋 Hi, I’m @Blaq-Shinobi..(or Godswill)
 - 👀 I’m interested in ...Ai development 
 - 🌱 I’m currently learning ...wed development and other types of coding
 - 💞️ I’m looking to collaborate on ... making my very first Ai
